@@ -1,2 +1,10 @@
 # Strong-Password-Checker
-Developed a cybersecurity tool to evaluate password strength across criteria in- cluding length, uppercase and lowercase letters, numbers, and special characters. The tool classifies passwords as strong/medium/weak and gives actionable feedback to improve password hygiene.
+A simple Python tool that checks the strength of a password based on length, character variety, and special symbols. It helps users create stronger and more secure passwords.
+
+
+#🚀 Features
+-Checks password length
+-Validates uppercase and lowercase letters
+-Detects numbers and special characters
+-Provides strength rating (Weak, Moderate, Strong)
+-Suggests improvements for weak passwords
